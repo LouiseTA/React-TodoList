@@ -56,6 +56,10 @@ function App() {
         handleDeleteTodo={handleDeleteTodo}
         todos={todos}
       />
+
+      <footer claaName="footer">
+        Desenvolvido por Gabriele Louise Trindade Araújo
+      </footer>
     </>
   );
 }
